@@ -1,5 +1,5 @@
 {
-    "name": "baibaratsky/php-webmoney",
+    "name": "mitalcoi/php-webmoney",
     "description": "WebMoney API PHP Library",
     "keywords": ["webmoney", "megastock", "capitaller", "WMXI", "WMSigner"],
     "license": "BSD-3-Clause",
